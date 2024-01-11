@@ -1,10 +1,10 @@
 <h1>Repository Untuk Pengumpulan Tugas Akhir Matkul Pemrograman Website Menggunakan Framework Laravel</h1>
 <h3>Anggota :</h3>
 <ul>
-     <li>Bagus Sunarno           (20051214002) </li>
-     <li>Mairatul Lailia         (20051214006) </li>
-     <li>Tifanny Maulida Innayah (20051214020) </li>
-     <li>Achmad Alvin Ardiansyah (20051214052) </li>
+     <li>Mathias Rekyan            </li>
+     <li>Angeline Martcella         </li>
+     <li>Hanindito Ridho</li>
+     
 </ul>
 
 
